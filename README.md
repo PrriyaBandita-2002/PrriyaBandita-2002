@@ -11,7 +11,7 @@
 <a href="https://twitter.com/@dashprriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dashprriya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prriya dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prriya dash" height="30" width="40" /></a>
 <a href="https://instagram.com/_blue.shades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_blue.shades" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@priya2002_dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@priya2002_dash" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@b222039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@b222039" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/priya20mhw8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priya20mhw8" height="30" width="40" /></a>
 </p>
 
