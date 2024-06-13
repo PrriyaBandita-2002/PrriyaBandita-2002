@@ -1,7 +1,9 @@
+<h2 align="left">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey!+I'm+Prriya+Dash;)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey!+I'm+Prriya+Dash.)]()
 <br>
-
+</h2> 
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611tflv3z3i1mb58x2zmyoxrni751ygcjyfdnwruq7b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
