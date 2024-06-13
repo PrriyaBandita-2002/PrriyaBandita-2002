@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Prriya Dash</h1>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey!+I'm+Prriya+Dash;)]()
+<br>
 
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611tflv3z3i1mb58x2zmyoxrni751ygcjyfdnwruq7b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
