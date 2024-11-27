@@ -5,7 +5,7 @@
 <br>
 </h2> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PrriyaBandita-2002&label=Profile%20views&color=0e75b6&style=flat" alt="prriya" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrriyaBandita-2002" alt="prriya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prriyabandita-2002" alt="prriya" /></a> </p>
 
 <img align="right" alt="coding" width="325" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611tflv3z3i1mb58x2zmyoxrni751ygcjyfdnwruq7b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
